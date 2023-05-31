@@ -22,8 +22,7 @@ button{
 }
 
 button#pink{
-    padding: 10px 60px;
-    border-radius: 20px;
+    border: none;
     background-color: white;
     color: rgb(252, 4, 83);
 }
