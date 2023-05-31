@@ -1,0 +1,32 @@
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    border: solid;
+    padding: 20px;
+    text-align: center;
+    margin: 25px;
+}
+.card#pink{
+    color: white;
+    background-color: rgb(252, 4, 83);
+}
+
+button{
+    padding: 10px 60px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+button#pink{
+    padding: 10px 60px;
+    border-radius: 20px;
+    background-color: white;
+    color: rgb(252, 4, 83);
+}
+h2{
+    font-weight: 100000000px;
+}
